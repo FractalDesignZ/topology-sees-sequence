@@ -52,4 +52,4 @@ P2 is **parked** until a backbone-visible energy (rama/omega terms, cyclized−l
 
 ## License
 
-Research code — use with attribution.
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE). Commercial use requires a separate license from the copyright holder, B. Jones (b.jones@jtech.ai). See [NOTICE](NOTICE).
